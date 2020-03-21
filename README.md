@@ -8,3 +8,9 @@ After running the notebook, one can get the data in the form of excel file.
 
 IMPACT ON DOW JONES
 ![alt text](https://user-images.githubusercontent.com/40502533/77227378-fad10680-6ba5-11ea-874d-5e4c7f059739.png)
+
+IMPACT ON BOEING AIRLINES
+![alt text](https://user-images.githubusercontent.com/40502533/77227382-fd336080-6ba5-11ea-8f03-e5a1f464124b.png)
+
+IMPACT ON ZOOM COMMUNICATION
+![alt text](https://user-images.githubusercontent.com/40502533/77227384-ff95ba80-6ba5-11ea-978c-79bde5b9d0be.png)
